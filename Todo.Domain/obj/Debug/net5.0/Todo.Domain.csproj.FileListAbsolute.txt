@@ -1,0 +1,12 @@
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\bin\Debug\net5.0\Todo.Domain.deps.json
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\bin\Debug\net5.0\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\bin\Debug\net5.0\ref\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\bin\Debug\net5.0\Todo.Domain.pdb
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\ref\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.pdb
