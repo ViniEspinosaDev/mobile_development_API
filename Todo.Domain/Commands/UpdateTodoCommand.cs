@@ -1,24 +1,27 @@
 ﻿using Flunt.Notifications;
 using Flunt.Validations;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-    public class CreateTodoCommand : Notifiable, ICommand
+    public class UpdateTodoCommand : Notifiable, ICommand
     {
-        public CreateTodoCommand() { }
-        public CreateTodoCommand(string titulo, string usuario, DateTime data)
+        public UpdateTodoCommand() { }
+        public UpdateTodoCommand(Guid id, string titulo, string usuario)
         {
+            Id = id;
             Titulo = titulo;
             Usuario = usuario;
-            Data = data;
         }
 
+        public Guid Id { get; set; }
         public string Titulo { get; set; }
         public string Usuario { get; set; }
-        public DateTime Data { get; set; }
-
         public void Validate()
         {
             AddNotifications(
