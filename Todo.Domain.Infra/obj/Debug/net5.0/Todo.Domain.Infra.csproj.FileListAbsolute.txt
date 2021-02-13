@@ -10,3 +10,6 @@ C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Sem
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\obj\Debug\net5.0\Todo.Domain.Infra.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\obj\Debug\net5.0\ref\Todo.Domain.Infra.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\obj\Debug\net5.0\Todo.Domain.Infra.pdb
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\bin\Debug\net5.0\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\bin\Debug\net5.0\Todo.Domain.pdb
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Infra\obj\Debug\net5.0\Todo.Domain.Infra.csproj.CopyComplete

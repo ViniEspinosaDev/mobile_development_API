@@ -26,6 +26,8 @@
       "Todo.Domain.Api/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "5.6.3",
+          "Todo.Domain": "1.0.0",
+          "Todo.Domain.Infra": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -317,6 +319,17 @@
           "Todo.Domain.Api.dll": {}
         }
       },
+      "Flunt/1.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
       "Microsoft.OpenApi/1.2.3": {
         "runtime": {
@@ -374,6 +387,28 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "Todo.Domain/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.5"
+        },
+        "runtime": {
+          "Todo.Domain.dll": {}
+        },
+        "compile": {
+          "Todo.Domain.dll": {}
+        }
+      },
+      "Todo.Domain.Infra/1.0.0": {
+        "dependencies": {
+          "Todo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Todo.Domain.Infra.dll": {}
+        },
+        "compile": {
+          "Todo.Domain.Infra.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2082,6 +2117,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Flunt/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "path": "flunt/1.0.5",
+      "hashPath": "flunt.1.0.5.nupkg.sha512"
+    },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2123,6 +2165,16 @@
       "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "Todo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Todo.Domain.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

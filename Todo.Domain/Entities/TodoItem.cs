@@ -17,10 +17,10 @@ namespace Todo.Domain.Entities
         public DateTime Data { get; private set; }
         public string Usuario { get; private set; }
 
-        public void Concluir() =>
+        public void MarcarComoConcluido() =>
             Concluida = true;
 
-        public void Desconcluir() =>
+        public void MarcarComoIncompleto() =>
             Concluida = false;
 
         public void AtualizarTitulo(string titulo) =>
