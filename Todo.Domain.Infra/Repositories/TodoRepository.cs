@@ -11,9 +11,9 @@ namespace Todo.Domain.Infra.Repositories
 {
     public class TodoRepository : ITodoRepository
     {
-        private readonly DataContext _context;
+        private readonly TodoContext _context;
 
-        public TodoRepository(DataContext context)
+        public TodoRepository(TodoContext context)
         {
             _context = context;
         }

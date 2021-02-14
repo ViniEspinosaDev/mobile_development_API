@@ -3,9 +3,9 @@ using Todo.Domain.Entities;
 
 namespace Todo.Domain.Infra.Contexts
 {
-    public class DataContext : DbContext
+    public class TodoContext : DbContext
     {
-        public DataContext(DbContextOptions<DataContext> options) : base(options)
+        public TodoContext(DbContextOptions<TodoContext> options) : base(options)
         {
         }
 

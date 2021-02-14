@@ -8,9 +8,11 @@ C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Sem
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\ref\Todo.Domain.Api.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Api.pdb
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Flunt.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Humanizer.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
