@@ -53,5 +53,14 @@ namespace Todo.Domain.Tests.QueryTests
             var result = _items.AsQueryable().Where(TodoQueries.GetByPeriod("Usuario1", DateTime.Now, true));
             Assert.AreEqual(1, result.Count());
         }
+
+        [TestMethod]
+        public void DeveRetornarTarefasApenasDoUsuarioInformadoPeloId()
+        {
+            var usuario = _items.FirstOrDefault();
+
+            var result = _items.AsQueryable().Where(TodoQueries.GetById(usuario.Id, usuario.Usuario));
+            Assert.AreEqual(1, result.Count());
+        }
     }
 }

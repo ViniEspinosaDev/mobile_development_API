@@ -37,22 +37,22 @@ namespace Todo.Domain.Infra.Repositories
 
         public IEnumerable<TodoItem> GetAllDone(string usuario)
         {
-            throw new NotImplementedException();
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllDone(usuario)).OrderBy(x => x.Data);
         }
 
         public IEnumerable<TodoItem> GetAllUndone(string usuario)
         {
-            throw new NotImplementedException();
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllUndone(usuario)).OrderBy(x => x.Data);
         }
 
         public TodoItem GetById(Guid id, string usuario)
         {
-            throw new NotImplementedException();
+            return _context.Todos.Where(TodoQueries.GetById(id, usuario)).FirstOrDefault();
         }
 
         public IEnumerable<TodoItem> GetByPeriod(string usuario, DateTime data, bool concluida)
         {
-            throw new NotImplementedException();
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetByPeriod(usuario, data, concluida)).OrderBy(x => x.Data);
         }
     }
 }
