@@ -11,7 +11,6 @@ namespace Todo.Domain.Entities
             Data = data;
             Usuario = usuario;
         }
-
         public string Titulo { get; private set; }
         public bool Concluida { get; private set; }
         public DateTime Data { get; private set; }

@@ -9,6 +9,7 @@ C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Sem
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\ref\Todo.Domain.Tests.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.pdb
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Flunt.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -86,6 +87,8 @@ C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Sem
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.dll
+C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.pdb
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.csprojAssemblyReference.cache
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.AssemblyInfoInputs.cache
@@ -96,6 +99,3 @@ C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Sem
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\ref\Todo.Domain.Tests.dll
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.pdb
 C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.genruntimeconfig.cache
-C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.dll
-C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.pdb
-C:\Users\espin\OneDrive\Documentos\Vinicius Espinosa\Academico\Faculdade\7º Semestre\Projeto Aplicado VII\Todo\Todo.Domain.Tests\bin\Debug\net5.0\Flunt.dll
