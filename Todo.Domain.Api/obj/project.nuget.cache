@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QWIJ+g+w6nvrRy3aAIfugrFRh/QTdYmNmrVgQ/ceEWey/ZZrwBZ29ECd8pZ+NBU2NpgsSjUOfxAEyp0oCJYphQ==",
+  "dgSpecHash": "f313ld00w66JEnfrZWBBuHEMsVnUbtHFbIbmzdon4ytcNOunxJcTnfP4PUb4BDQGlPxUnnf8mUHYTtYE70DHzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,11 @@
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.3\\microsoft.entityframeworkcore.analyzers.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.3\\microsoft.entityframeworkcore.inmemory.5.0.3.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.3\\microsoft.entityframeworkcore.relational.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

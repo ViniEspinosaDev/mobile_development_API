@@ -10,6 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "5.0.3",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.3",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.3",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
           "Todo.Domain": "1.0.0"
         },
         "runtime": {
@@ -94,6 +96,11 @@
             "assemblyVersion": "5.0.3.0",
             "fileVersion": "5.0.321.6417"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/5.0.3": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "5.0.3"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -282,6 +289,13 @@
       "sha512": "sha512-fiWf3OWsm5/8z+J3DiSMyNz2OkBjr6IvoJ/DzC6XgArDu17sHvTG3mdUC07cEUIo4n5XV5gthgdLalt/ALD6bw==",
       "path": "microsoft.entityframeworkcore.relational/5.0.3",
       "hashPath": "microsoft.entityframeworkcore.relational.5.0.3.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/5.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SdRxRyr7CvsAETVmWGpgJ8eY+8XNw9NjvKlpGQzqm0Q/+iwNYRo3ENmUDTk8AW/5KpBP885XsdjprGeSb3eUkA==",
+      "path": "microsoft.entityframeworkcore.tools/5.0.3",
+      "hashPath": "microsoft.entityframeworkcore.tools.5.0.3.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
       "type": "package",

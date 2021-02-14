@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cYk3Nfr/yj+3AdDswhtuZ5wuU2uwxlZtah0hT5OQL9FhiQjQHWIrGM5OB1ZE8psEbNIpe0n1TpA73U6Q6jkCzw==",
+  "dgSpecHash": "1zab13vxXbpSabxBFd4ail8fsaDWvJtN3SXK4ktTCREucVYK0p9KhQ4j92LxcZ3KvWig9BEyNZCHEmKJnItgNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.3\\microsoft.entityframeworkcore.design.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.3\\microsoft.entityframeworkcore.inmemory.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.3\\microsoft.entityframeworkcore.relational.5.0.3.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.3\\microsoft.entityframeworkcore.tools.5.0.3.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
