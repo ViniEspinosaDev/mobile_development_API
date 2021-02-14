@@ -44,6 +44,8 @@ namespace Todo.Domain.Handlers
 
             var todo = _repository.GetById(command.Id, command.Usuario);
 
+            todo.AtualizarTitulo(command.Titulo);
+
             _repository.Atualizar(todo);
 
             return new GenericCommandResult(true, "Tarefa atualizada com sucesso.", todo);
