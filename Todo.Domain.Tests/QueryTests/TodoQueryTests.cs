@@ -29,5 +29,29 @@ namespace Todo.Domain.Tests.QueryTests
             var result = _items.AsQueryable().Where(TodoQueries.GetAll("Usuario1"));
             Assert.AreEqual(4, result.Count());
         }
+
+        [TestMethod]
+        public void DeveRetornarTarefasApenasDoUsuarioInformadoQueEstejamConcluidas()
+        {
+            _items.FirstOrDefault().MarcarComoConcluido();
+            var result = _items.AsQueryable().Where(TodoQueries.GetAllDone("Usuario1"));
+            Assert.AreEqual(1, result.Count());
+        }
+
+        [TestMethod]
+        public void DeveRetornarTarefasApenasDoUsuarioInformadoQueEstejamIncompletas()
+        {
+            _items.FirstOrDefault().MarcarComoConcluido();
+            var result = _items.AsQueryable().Where(TodoQueries.GetAllUndone("Usuario1"));
+            Assert.AreEqual(3, result.Count());
+        }
+
+        [TestMethod]
+        public void DeveRetornarTarefasApenasDoUsuarioInformadoPeloPeriodo()
+        {
+            _items.FirstOrDefault().MarcarComoConcluido();
+            var result = _items.AsQueryable().Where(TodoQueries.GetByPeriod("Usuario1", DateTime.Now, true));
+            Assert.AreEqual(1, result.Count());
+        }
     }
 }
