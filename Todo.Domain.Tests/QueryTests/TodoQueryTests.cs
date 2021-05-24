@@ -33,7 +33,7 @@ namespace Todo.Domain.Tests.QueryTests
         [TestMethod]
         public void DeveRetornarTarefasApenasDoUsuarioInformadoQueEstejamConcluidas()
         {
-            _items.FirstOrDefault().MarcarComoConcluido();
+            _items.FirstOrDefault().MarkAsDone();
             var result = _items.AsQueryable().Where(TodoQueries.GetAllDone("Usuario1"));
             Assert.AreEqual(1, result.Count());
         }
@@ -41,7 +41,7 @@ namespace Todo.Domain.Tests.QueryTests
         [TestMethod]
         public void DeveRetornarTarefasApenasDoUsuarioInformadoQueEstejamIncompletas()
         {
-            _items.FirstOrDefault().MarcarComoConcluido();
+            _items.FirstOrDefault().MarkAsDone();
             var result = _items.AsQueryable().Where(TodoQueries.GetAllUndone("Usuario1"));
             Assert.AreEqual(3, result.Count());
         }
@@ -49,7 +49,7 @@ namespace Todo.Domain.Tests.QueryTests
         [TestMethod]
         public void DeveRetornarTarefasApenasDoUsuarioInformadoPeloPeriodo()
         {
-            _items.FirstOrDefault().MarcarComoConcluido();
+            _items.FirstOrDefault().MarkAsDone();
             var result = _items.AsQueryable().Where(TodoQueries.GetByPeriod("Usuario1", DateTime.Now, true));
             Assert.AreEqual(1, result.Count());
         }

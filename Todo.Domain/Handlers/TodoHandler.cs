@@ -44,7 +44,7 @@ namespace Todo.Domain.Handlers
 
             var todo = _repository.GetById(command.Id, command.Usuario);
 
-            todo.AtualizarTitulo(command.Titulo);
+            todo.UpdateTitle(command.Titulo);
 
             _repository.Atualizar(todo);
 
@@ -60,7 +60,7 @@ namespace Todo.Domain.Handlers
 
             var todo = _repository.GetById(command.Id, command.Usuario);
 
-            todo.MarcarComoConcluido();
+            todo.MarkAsDone();
 
             _repository.Atualizar(todo);
 
@@ -76,7 +76,7 @@ namespace Todo.Domain.Handlers
 
             var todo = _repository.GetById(command.Id, command.Usuario);
 
-            todo.MarcarComoIncompleto();
+            todo.MarkAsUndone();
 
             _repository.Atualizar(todo);
 

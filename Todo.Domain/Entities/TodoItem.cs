@@ -16,13 +16,13 @@ namespace Todo.Domain.Entities
         public DateTime Date { get; private set; }
         public string User { get; private set; }
 
-        public void MarcarComoConcluido() =>
+        public void MarkAsDone() =>
             Done = true;
 
-        public void MarcarComoIncompleto() =>
+        public void MarkAsUndone() =>
             Done = false;
 
-        public void AtualizarTitulo(string titulo) =>
-            Title = titulo;
+        public void UpdateTitle(string title) =>
+            Title = title;
     }
 }

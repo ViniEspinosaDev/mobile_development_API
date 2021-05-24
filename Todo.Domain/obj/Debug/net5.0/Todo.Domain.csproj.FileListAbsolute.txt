@@ -20,3 +20,4 @@ C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimose
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.dll
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain\obj\Debug\net5.0\ref\Todo.Domain.dll
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.pdb
+C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache
