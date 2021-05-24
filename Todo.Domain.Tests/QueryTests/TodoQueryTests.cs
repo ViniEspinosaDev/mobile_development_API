@@ -59,7 +59,7 @@ namespace Todo.Domain.Tests.QueryTests
         {
             var usuario = _items.FirstOrDefault();
 
-            var result = _items.AsQueryable().Where(TodoQueries.GetById(usuario.Id, usuario.Usuario));
+            var result = _items.AsQueryable().Where(TodoQueries.GetById(usuario.Id, usuario.User));
             Assert.AreEqual(1, result.Count());
         }
     }

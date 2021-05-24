@@ -28,7 +28,7 @@ namespace Todo.Domain.Handlers
             if (command.Invalid)
                 return new GenericCommandResult(false, "Ops, sua tarefa está errada.", command.Notifications);
 
-            var todo = new TodoItem(command.Titulo, command.Data, command.Usuario);
+            var todo = new TodoItem(command.Title, command.Date, command.User);
 
             _repository.Criar(todo);
 

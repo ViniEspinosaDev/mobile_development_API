@@ -32,17 +32,17 @@ namespace Todo.Domain.Infra.Repositories
 
         public IEnumerable<TodoItem> GetAll(string usuario)
         {
-            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAll(usuario)).OrderBy(x => x.Data);
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAll(usuario)).OrderBy(x => x.Date);
         }
 
         public IEnumerable<TodoItem> GetAllDone(string usuario)
         {
-            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllDone(usuario)).OrderBy(x => x.Data);
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllDone(usuario)).OrderBy(x => x.Date);
         }
 
         public IEnumerable<TodoItem> GetAllUndone(string usuario)
         {
-            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllUndone(usuario)).OrderBy(x => x.Data);
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetAllUndone(usuario)).OrderBy(x => x.Date);
         }
 
         public TodoItem GetById(Guid id, string usuario)
@@ -52,7 +52,7 @@ namespace Todo.Domain.Infra.Repositories
 
         public IEnumerable<TodoItem> GetByPeriod(string usuario, DateTime data, bool concluida)
         {
-            return _context.Todos.AsNoTracking().Where(TodoQueries.GetByPeriod(usuario, data, concluida)).OrderBy(x => x.Data);
+            return _context.Todos.AsNoTracking().Where(TodoQueries.GetByPeriod(usuario, data, concluida)).OrderBy(x => x.Date);
         }
     }
 }

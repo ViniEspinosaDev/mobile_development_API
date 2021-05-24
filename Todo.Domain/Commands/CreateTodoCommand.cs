@@ -8,24 +8,24 @@ namespace Todo.Domain.Commands
     public class CreateTodoCommand : Notifiable, ICommand
     {
         public CreateTodoCommand() { }
-        public CreateTodoCommand(string titulo, string usuario, DateTime data)
+        public CreateTodoCommand(string title, string user, DateTime date)
         {
-            Titulo = titulo;
-            Usuario = usuario;
-            Data = data;
+            Title = title;
+            User = user;
+            Date = date;
         }
 
-        public string Titulo { get; set; }
-        public string Usuario { get; set; }
-        public DateTime Data { get; set; }
+        public string Title { get; set; }
+        public string User { get; set; }
+        public DateTime Date { get; set; }
 
         public void Validate()
         {
             AddNotifications(
                 new Contract()
                 .Requires()
-                .HasMinLen(Titulo, 3, nameof(Titulo), "Titulo precisa conter mais que 3 caracteres.")
-                .HasMinLen(Usuario, 2, nameof(Usuario), "Usuário deve ter mais que 2 caracteres."));
+                .HasMinLen(Title, 3, nameof(Title), "Titulo precisa conter mais que 3 caracteres.")
+                .HasMinLen(User, 2, nameof(User), "Usuário deve ter mais que 2 caracteres."));
         }
     }
 }

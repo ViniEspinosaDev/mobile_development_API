@@ -12,7 +12,7 @@ namespace Todo.Domain.Tests.EntityTests
         [TestMethod]
         public void DadoUmNovoTodoOMesmoNaoPodeSerConcluido()
         {
-            Assert.AreEqual(_validTodoItem.Concluida, false);
+            Assert.AreEqual(_validTodoItem.Done, false);
         }
     }
 }

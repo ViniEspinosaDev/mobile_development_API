@@ -4,25 +4,25 @@ namespace Todo.Domain.Entities
 {
     public class TodoItem : Entity
     {
-        public TodoItem(string titulo, DateTime data, string usuario)
+        public TodoItem(string title, DateTime date, string user)
         {
-            Titulo = titulo;
-            Concluida = false;
-            Data = data;
-            Usuario = usuario;
+            Title = title;
+            Done = false;
+            Date = date;
+            User = user;
         }
-        public string Titulo { get; private set; }
-        public bool Concluida { get; private set; }
-        public DateTime Data { get; private set; }
-        public string Usuario { get; private set; }
+        public string Title { get; private set; }
+        public bool Done { get; private set; }
+        public DateTime Date { get; private set; }
+        public string User { get; private set; }
 
         public void MarcarComoConcluido() =>
-            Concluida = true;
+            Done = true;
 
         public void MarcarComoIncompleto() =>
-            Concluida = false;
+            Done = false;
 
         public void AtualizarTitulo(string titulo) =>
-            Titulo = titulo;
+            Title = titulo;
     }
 }

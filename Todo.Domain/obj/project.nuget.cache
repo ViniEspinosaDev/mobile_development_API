@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPjvUCWRo35wJ981bHEiP7Fbv1j+LeCyA+kSIq5G9Qmcfk7vYs/WfXKNbdv7qgZLTYzBpoSgz38lzUfq3JfrZA==",
+  "dgSpecHash": "mzrS5IeKNBnc37Kic6XKdLtgmk2a+dA1AZUV86y/WhH6hrpaJmeBLR2bcovxySON0a0WznQuaTpmFp1YFSM14g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\espin\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
   ],

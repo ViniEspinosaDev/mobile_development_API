@@ -5609,11 +5609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectUniqueName": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "projectName": "Todo.Domain.Api",
-      "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Api\\obj\\",
+      "outputPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5630,11 +5630,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-              "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
             },
-            "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+            "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj"
             }
           }
         }

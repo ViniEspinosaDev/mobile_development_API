@@ -20,7 +20,7 @@ namespace Todo.Domain.Api.Controllers
         [HttpGet]
         public IEnumerable<TodoItem> GetAll([FromServices] ITodoRepository repository)
         {
-            string usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString();
+            string usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
             return repository.GetAll(usuario);
         }
 
@@ -32,7 +32,7 @@ namespace Todo.Domain.Api.Controllers
             return repository.GetAllDone(usuario);
         }
 
-        [Route("undone")]
+        [Route("undone/todos")]
         [HttpGet]
         public IEnumerable<TodoItem> GetAllUndone([FromServices] ITodoRepository repository)
         {
@@ -79,7 +79,7 @@ namespace Todo.Domain.Api.Controllers
             [FromBody] CreateTodoCommand command,
             [FromServices] TodoHandler handler)
         {
-            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString(); ;
+            command.User = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString();
             return (GenericCommandResult)handler.Handle(command);
         }
 
@@ -89,7 +89,7 @@ namespace Todo.Domain.Api.Controllers
             [FromBody] UpdateTodoCommand command,
             [FromServices] TodoHandler handler)
         {
-            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString(); ;
+            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString();
             return (GenericCommandResult)handler.Handle(command);
         }
 
@@ -99,7 +99,7 @@ namespace Todo.Domain.Api.Controllers
             [FromBody] MarkTodoAsDoneCommand command,
             [FromServices] TodoHandler handler)
         {
-            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString(); ;
+            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString();
             return (GenericCommandResult)handler.Handle(command);
         }
 
@@ -109,7 +109,7 @@ namespace Todo.Domain.Api.Controllers
             [FromBody] MarkTodoAsUndoneCommand command,
             [FromServices] TodoHandler handler)
         {
-            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString(); ;
+            command.Usuario = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value.ToString();
             return (GenericCommandResult)handler.Handle(command);
         }
     }

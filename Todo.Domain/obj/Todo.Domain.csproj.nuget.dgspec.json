@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj": {}
+    "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+    "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\espin\\OneDrive\\Documentos\\Vinicius Espinosa\\Academico\\Faculdade\\7º Semestre\\Projeto Aplicado VII\\Todo\\Todo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
