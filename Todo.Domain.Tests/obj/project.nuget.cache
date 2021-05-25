@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VWpk/1E36uzWbM9s95bwsGf4eWJC2DsLnnNvZjBVSFSLIfT9xt/6bvs1PbyuYuU5a0QBqCcUklsCFTDbp60ww==",
+  "dgSpecHash": "6z9l5FVBjJHXwLskZv4qCWQeliAekklF3J7TFq1fUnKm5Q1IgIkJtczcm2QKlVX/o1gFWijVoRJ0BJnbWCuVVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+  "projectFilePath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\espin\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
