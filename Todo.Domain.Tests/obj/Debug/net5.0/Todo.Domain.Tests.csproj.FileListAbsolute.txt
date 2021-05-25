@@ -200,11 +200,11 @@ C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimose
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Tests\obj\Debug\net5.0\ref\Todo.Domain.Tests.dll
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.pdb
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Tests\obj\Debug\net5.0\Todo.Domain.Tests.genruntimeconfig.cache
+C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\testhost.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\testhost.exe
-C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\testhost.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.deps.json
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.runtimeconfig.json
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Tests\bin\Debug\net5.0\Todo.Domain.Tests.runtimeconfig.dev.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Op0bDpvyrp4uXNXfi8MotrIgABWqCBrKTMPqjeGHC2t1E6+2k9zkg/VAuIiNeZ3oQPlJoSqoAki2erfp+PwPbg==",
+  "dgSpecHash": "oRVQdnychpRXkykF8U0bUkfNDxLPh6jAKAJw4i0ujy117A4rARq9fmTps0W656GHEcKEuShQkANNXNmzA2aefw==",
   "success": true,
-  "projectFilePath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "projectFilePath": "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\espin\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\espin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

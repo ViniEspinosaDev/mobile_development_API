@@ -25,7 +25,6 @@ C:\src\dotnetapi\mobile_development_API\Todo.Domain\bin\Debug\net5.0\Todo.Domain
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\bin\Debug\net5.0\Todo.Domain.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\bin\Debug\net5.0\ref\Todo.Domain.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\bin\Debug\net5.0\Todo.Domain.pdb
-C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfoInputs.cache
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfo.cs
@@ -33,3 +32,4 @@ C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\ref\Todo.Domain.dll
 C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.pdb
+C:\src\dotnetapi\mobile_development_API\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache

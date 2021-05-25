@@ -16,7 +16,7 @@ namespace Todo.Domain.Infra.Contexts
         {
             if (!options.IsConfigured)
             {
-                options.UseSqlServer("Server=tcp:taskappdb.database.windows.net,1433;Initial Catalog=taskappdb;Persist Security Info=False;User ID=taskadmin;Password={senha};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                options.UseSqlServer("Server=tcp:taskappdb.database.windows.net,1433;Initial Catalog=taskappdb;Persist Security Info=False;User ID=taskadmin;Password=P@$$W0rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
 

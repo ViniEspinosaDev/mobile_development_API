@@ -132,8 +132,8 @@ C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimose
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Api\obj\Debug\net5.0\ref\Todo.Domain.Api.dll
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Api\obj\Debug\net5.0\Todo.Domain.Api.pdb
 C:\Users\espin\OneDrive\Documentos\viniciusEspinosa\Academico\Faculdade\setimosemestre\pa\Todo\Todo.Domain.Api\obj\Debug\net5.0\Todo.Domain.Api.genruntimeconfig.cache
-C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\appsettings.json
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\appsettings.json
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Api.exe
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Api.deps.json
 C:\src\dotnetapi\mobile_development_API\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Api.runtimeconfig.json

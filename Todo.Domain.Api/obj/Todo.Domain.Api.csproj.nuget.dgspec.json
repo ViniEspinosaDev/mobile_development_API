@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {}
+    "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\Todo.Domain.Api.csproj": {}
   },
   "projects": {
-    "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {
+    "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\Todo.Domain.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+        "projectUniqueName": "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\Todo.Domain.Api.csproj",
         "projectName": "Todo.Domain.Api",
-        "projectPath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+        "projectPath": "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\Todo.Domain.Api.csproj",
         "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Api\\obj\\",
+        "outputPath": "C:\\src\\dotnetapi\\mobile_development_API\\todo.domain.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
