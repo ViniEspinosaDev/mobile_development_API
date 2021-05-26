@@ -24,6 +24,7 @@ namespace Todo.Domain.Api
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers();
 
             services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
             //services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
