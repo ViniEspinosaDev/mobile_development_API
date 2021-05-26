@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'taskappapi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9fa53b74f27f40808855254924eca944 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c394412e21b640c392a85fcb1164b24e }}
         package: .

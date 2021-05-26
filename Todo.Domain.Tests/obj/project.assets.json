@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
       "projectName": "Todo.Domain.Tests",
-      "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+      "projectPath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain.Tests\\obj\\",
+      "outputPath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5783,8 +5783,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "C:\\Users\\espin\\OneDrive\\Documentos\\viniciusEspinosa\\Academico\\Faculdade\\setimosemestre\\pa\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+            "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\src\\dotnetapi\\mobile_development_API\\Todo.Domain\\Todo.Domain.csproj"
             }
           }
         }
