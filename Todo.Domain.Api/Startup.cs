@@ -26,40 +26,42 @@ namespace Todo.Domain.Api
         {
             services.AddControllers();
 
-            //services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
-            services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
+            services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
+            // services.AddDbContext<DataContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
 
             services.AddTransient<ITodoRepository, TodoRepository>();
             services.AddTransient<TodoHandler, TodoHandler>();
 
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                    .AddJwtBearer(options =>
-                    {
-                        options.Authority = "https://securetoken.google.com/todo-3b201";
-                        options.TokenValidationParameters = new TokenValidationParameters
-                        {
-                            ValidateIssuer = true,
-                            ValidIssuer = "https://securetoken.google.com/todo-3b201",
-                            ValidateAudience = true,
-                            ValidAudience = "todo-3b201",
-                            ValidateLifetime = true
-                        };
-                    });
+            services
+               .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+               .AddJwtBearer(options =>
+               {
+                   options.Authority = "https://securetoken.google.com/todo-3b201";
+                   options.TokenValidationParameters = new TokenValidationParameters
+                   {
+                       ValidateIssuer = true,
+                       ValidIssuer = "https://securetoken.google.com/todo-3b201",
+                       ValidateAudience = true,
+                       ValidAudience = "todo-3b201",
+                       ValidateLifetime = true
+                   };
+               });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            //if (env.IsDevelopment())
+            if (env.IsDevelopment())
                 app.UseDeveloperExceptionPage();
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
-            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            app.UseCors(x => x
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
 
             app.UseAuthentication();
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
